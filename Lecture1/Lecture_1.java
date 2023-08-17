@@ -1,8 +1,8 @@
 package Lecture1;
 
-import java.util.Scanner;
+// import java.util.Scanner;
 
-import java.text.Normalizer.Form;
+// import java.text.Normalizer.Form;
 
 /**
  * Lecture_1
